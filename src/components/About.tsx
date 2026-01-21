@@ -77,7 +77,7 @@ export default function About() {
           className="grid grid-cols-3 gap-8 mt-24 pt-12 border-t border-white/[0.06]"
         >
           <div className="text-center">
-            <p className="text-3xl md:text-4xl font-light mb-2">2</p>
+            <p className="text-3xl md:text-4xl font-light mb-2">3</p>
             <p className="text-xs text-white/40 uppercase tracking-wider">Products</p>
           </div>
           <div className="text-center">
